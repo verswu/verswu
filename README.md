@@ -2,7 +2,7 @@
 - 👀 I’m interested in connections
 - 🌱 I’m currently playing around with facial recognition
 - 💞️ I’m looking to collaborate on building some fun APIs
-- 📫 How to reach me - wubird@gmail.com
+- 📫 How to reach me - wubird [at] gmail
 
 <!---
 verswu/verswu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
